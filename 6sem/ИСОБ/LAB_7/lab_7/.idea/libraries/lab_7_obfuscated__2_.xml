@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lab_7-obfuscated (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/libs/lab_7-obfuscated.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
