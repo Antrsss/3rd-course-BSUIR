@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RectangleTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2025-11-21T18:41:41" hostname="ZGDARYA" time="0.437">
+  <properties/>
+  <testcase name="Исключение при отрицательной длине" classname="RectangleTest" time="0.032"/>
+  <testcase name="[1] 5.0, 3.0, 15.0" classname="RectangleTest" time="0.03"/>
+  <testcase name="[2] 2.5, 4.0, 10.0" classname="RectangleTest" time="0.068"/>
+  <testcase name="[3] 1.0, 1.0, 1.0" classname="RectangleTest" time="0.001"/>
+  <testcase name="[4] 100.0, 0.5, 50.0" classname="RectangleTest" time="0.033"/>
+  <testcase name="[5] 0.1, 0.1, 0.01" classname="RectangleTest" time="0.004"/>
+  <testcase name="Исключение при нулевой длине" classname="RectangleTest" time="0.042"/>
+  <testcase name="Исключение при отрицательной ширине" classname="RectangleTest" time="0.005"/>
+  <testcase name="Создание прямоугольника с корректными параметрами" classname="RectangleTest" time="0.005"/>
+  <testcase name="Исключение при NaN ширине" classname="RectangleTest" time="0.003"/>
+  <testcase name="Исключение при нулевой ширине" classname="RectangleTest" time="0.005"/>
+  <testcase name="Вычисление площади прямоугольника" classname="RectangleTest" time="0.004"/>
+  <testcase name="Получение информации о размерах" classname="RectangleTest" time="0.013"/>
+  <testcase name="Исключение при бесконечной длине" classname="RectangleTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

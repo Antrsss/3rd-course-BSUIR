@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PersonTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-11-21T18:35:29" hostname="ZGDARYA" time="0.102">
+  <properties/>
+  <testcase name="Исключение при пустой фамилии" classname="PersonTest" time="0.048"/>
+  <testcase name="Person с нулевым возрастом" classname="PersonTest" time="0.007"/>
+  <testcase name="Исключение при отрицательном возрасте" classname="PersonTest" time="0.008"/>
+  <testcase name="Создание Person с корректными данными" classname="PersonTest" time="0.004"/>
+  <testcase name="Исключение при пустом имени" classname="PersonTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

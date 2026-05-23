@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GreetingPrinterTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2025-11-21T18:30:12" hostname="ZGDARYA" time="0.147">
+  <properties/>
+  <testcase name="Проверка содержания обязательных строк" classname="GreetingPrinterTest" time="0.087"/>
+  <testcase name="Проверка формата вывода - ровно 3 строки" classname="GreetingPrinterTest" time="0.009"/>
+  <testcase name="Генерация с максимальным количеством восклицательных знаков (50)" classname="GreetingPrinterTest" time="0.005"/>
+  <testcase name="Генерация с минимальным количеством восклицательных знаков (5)" classname="GreetingPrinterTest" time="0.006"/>
+  <testcase name="Генерация приветствия с конкретным количеством восклицательных знаков" classname="GreetingPrinterTest" time="0.004"/>
+  <testcase name="Тест случайной генерации в диапазоне 5-50" classname="GreetingPrinterTest" time="0.014"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
